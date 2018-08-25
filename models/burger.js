@@ -1,0 +1,3 @@
+burgers = [
+    {name: "Bale Mountain"},
+]
